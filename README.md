@@ -1,1 +1,1 @@
-# SHIPIBO-AI
+# shipibo-helper
